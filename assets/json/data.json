@@ -1,0 +1,140 @@
+{
+    "heroImage": "/assets/image/img1.png",
+    "kelas": [{
+            "name": "Graphic Design",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2023/11/Kelas-mastering-PENCIL-SKETCH-1.webp"
+        },
+        {
+            "name": "3D Design",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2023/08/Kelas-mastering-Motion-Graphic-1.webp"
+        },
+        {
+            "name": "UI/UX Design",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2023/06/Kelas-UI-Design-LP-Shop-1.webp"
+        },
+        {
+            "name": "Video Editing",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-11-at-10.44.41.jpeg"
+        },
+        {
+            "name": "Digital Imaging",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-04-02-at-14.28.59-12-min.jpeg"
+        },
+        {
+            "name": "Illustration",
+            "price": "Rp99,000",
+            "urlImage": "https://rubrikgrafis.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-08-at-08.03.48.jpeg"
+        }
+    ],
+    "course": [{
+            "image": "/assets/image/course/course-1.png",
+            "title": "Mastering Layout & Social Media Design with Figma",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-2.png",
+            "title": "Mastering Adobe Illustrator",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-3.png",
+            "title": "Mastering Adobe Photoshop",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-4.png",
+            "title": "Mastering 3D Design with Blender",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-5.png",
+            "title": "Mastering Digital Drawing with Photoshop",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-6.png",
+            "title": "Logo Design Mastery",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-7.png",
+            "title": "UI Design for Mobile App",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-8.png",
+            "title": "Mastering Packaging Design",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-1.png",
+            "title": "Mastering Videography for Beginner",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-2.png",
+            "title": "How to Create Modern Cartoon with Procreate",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-3.png",
+            "title": "Flat Illustration Design with Adobe Illustrator",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-4.png",
+            "title": "Graphic Design with Smartphone (Canva)",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-5.png",
+            "title": "Video Editing with Premiere Pro",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-6.png",
+            "title": "Graphic Design with Inkscape",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        },
+        {
+            "image": "/assets/image/course/course-7.png",
+            "title": "UI Design for Mobile App",
+            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
+            "kelas": ["Beginner", "Lessons"],
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+        }
+    ]
+}
