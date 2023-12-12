@@ -5,11 +5,15 @@ async function elementNavbar() {
     //container memuat image
     const contentLogo = document.createElement('div')
     contentLogo.classList.add('mx-4')
+
     const headerLogo = document.createElement('img')
     headerLogo.src = '/assets/image/logo.png'
     headerLogo.style.height = '80px'
     headerLogo.style.cursor = 'pointer'
-    
+    headerLogo.setAttribute('onclick', 'pageMenu()')
+
+
+    //container memuat menuBar
     const headerUl = document.createElement('ul')
     headerUl.classList.add('d-flex', 'mx-4', 'my-2', 'align-items-center')
     headerUl.style.gap = '30px'
@@ -38,14 +42,20 @@ async function elementNavbar() {
             headerLi.classList.add( 'd-sm-block', 'd-lg-none', 'd-md-none') 
     
         } else if(nameMenu.toLowerCase() === 'sign in') {  
-            headerLi.classList.add('btn', 'btn-outline-success', 'd-none', 'd-sm-none', 'd-md-block')
+            headerLi.classList.add('btn', 'btn-outline-warning', 'd-none', 'd-sm-none', 'd-md-block', 'text-dark')
             headerLi.textContent = nameMenu
     
-        } else {
+        } else if(nameMenu.toLowerCase() === 'home') {
+            headerLi.setAttribute('onclick', 'pageMenu()')
+            headerLi.classList.add('d-none', 'd-sm-none', 'd-md-block')
+            headerLi.textContent = nameMenu
+            headerLi.style.fontWeight = '600'
+        } 
+        else {
             headerLi.classList.add('d-none', 'd-sm-none', 'd-md-block')
             headerLi.style.fontSize = '18px'
             headerLi.textContent += nameMenu
-    
+            headerLi.style.fontWeight = '600'
         }
     
         headerUl.appendChild(headerLi)
@@ -88,4 +98,7 @@ function openMenu() {
     }else {
         containerInput.style.display = 'none'
     }
+}
+function pageMenu() {
+    window.open('/index.html', '_self')
 }

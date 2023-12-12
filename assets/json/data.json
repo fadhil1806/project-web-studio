@@ -32,109 +32,229 @@
         }
     ],
     "course": [{
-            "image": "/assets/image/course/course-1.png",
-            "title": "Mastering Layout & Social Media Design with Figma",
+            "image": "/assets/image/course/1.jpg",
+            "title": "Mastering Layout and Social Media Design with Figma",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering layout and social media design with figma"
         },
         {
-            "image": "/assets/image/course/course-2.png",
+            "image": "/assets/image/course/2.jpeg",
             "title": "Mastering Adobe Illustrator",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering adobe illustrator"
         },
         {
-            "image": "/assets/image/course/course-3.png",
+            "image": "/assets/image/course/3.jpeg",
             "title": "Mastering Adobe Photoshop",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering adobe photoshop"
         },
         {
-            "image": "/assets/image/course/course-4.png",
+            "image": "/assets/image/course/4.jpeg",
             "title": "Mastering 3D Design with Blender",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering 3d design with blender"
         },
         {
-            "image": "/assets/image/course/course-5.png",
+            "image": "/assets/image/course/5.jpeg",
             "title": "Mastering Digital Drawing with Photoshop",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering digital drawing with photoshop"
         },
         {
-            "image": "/assets/image/course/course-6.png",
+            "image": "/assets/image/course/6.jpeg",
             "title": "Logo Design Mastery",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=logo design mastery"
         },
         {
-            "image": "/assets/image/course/course-7.png",
+            "image": "/assets/image/course/7.jpeg",
             "title": "UI Design for Mobile App",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=ui design for mobile app"
         },
         {
-            "image": "/assets/image/course/course-8.png",
+            "image": "/assets/image/course/8.jpeg",
             "title": "Mastering Packaging Design",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering packaging design"
         },
         {
-            "image": "/assets/image/course/course-1.png",
+            "image": "/assets/image/course/9.jpeg",
             "title": "Mastering Videography for Beginner",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=mastering videography for beginner"
         },
         {
-            "image": "/assets/image/course/course-2.png",
+            "image": "/assets/image/course/10.jpeg",
             "title": "How to Create Modern Cartoon with Procreate",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=how to create modern cartoon with procreate"
         },
         {
-            "image": "/assets/image/course/course-3.png",
+            "image": "/assets/image/course/11.jpeg",
             "title": "Flat Illustration Design with Adobe Illustrator",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=flat illustration design with adobe illustrator"
         },
         {
-            "image": "/assets/image/course/course-4.png",
+            "image": "/assets/image/course/12.jpeg",
             "title": "Graphic Design with Smartphone (Canva)",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=graphic design with smartphone (canva)"
         },
         {
-            "image": "/assets/image/course/course-5.png",
+            "image": "/assets/image/course/13.jpeg",
             "title": "Video Editing with Premiere Pro",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=video editing with premiere pro"
         },
         {
-            "image": "/assets/image/course/course-6.png",
+            "image": "/assets/image/course/14.jpeg",
             "title": "Graphic Design with Inkscape",
             "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
             "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"],
+            "url": "/class.html?class=graphic design with inkscape"
+        }
+    ],
+    "classVideo": [{
+            "image": ["/assets/image/video/blender/1.jfif", "/assets/image/video/blender/2.jfif", "/assets/image/video/blender/3.jfif", "/assets/image/video/blender/4.jfif"],
+            "title": "Mastering Layout and Social Media Design with Figma",
+            "description": "Belajar Mengedit Layout Social Media Di Figma",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
         },
         {
-            "image": "/assets/image/course/course-7.png",
+            "image": ["", "", "", ""],
+            "title": "Mastering Adobe Illustrator",
+            "description": "Belajar Mengedit Mastering DiAdobe Illustrator",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Mastering Adobe Photoshop",
+            "description": "Belajar Mengedit Mastering Di Adobe Photoshop",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Mastering 3D Design with Blender",
+            "description": "Belajar Mengedit 3D Design Bersama Blender",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Mastering Digital Drawing with Photoshop",
+            "description": "Belajar Mengedit Mastering Digital Drawing Bersama Photoshop",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Logo Design Mastery",
+            "description": "Belajar Mengedit Logo Design Mastery",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
             "title": "UI Design for Mobile App",
-            "description": "Mengubah kehidupan, bisnis, dan bangsa melalui transformasi talenta di bidang teknologi digital.",
-            "kelas": ["Beginner", "Lessons"],
-            "icon": ["/assets/image/icon/icon-hamburger.svg", "/assets/image/icon/icon-copy.svg"]
+            "description": "Belajar UI Design for Mobile App",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Mastering Packaging Design",
+            "description": "Belajar Mengedit Packaging Design",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Mastering Videography for Beginner",
+            "description": "Belajar Mengedit Videography for Beginner",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "How to Create Modern Cartoon with Procreate",
+            "description": "Belajar Create Modern Cartoon with Procreate",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Flat Illustration Design with Adobe Illustrator",
+            "description": "Belajar Mengedit Illustration Design Bersama Adobe Illustrator",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Graphic Design with Smartphone (Canva)",
+            "description": "Belajar Graphic Design Di Smartphone (Canva)",
+            "level": "Expert",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Video Editing with Premiere Pro",
+            "description": "Belajar Mengedit Video Editing with Premiere Pro",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
+        },
+        {
+            "image": ["", "", "", ""],
+            "title": "Graphic Design with Inkscape",
+            "description": "Belajar Mengedit Graphic Design with Inkscape",
+            "level": "All Level",
+            "duration": "4h 56m",
+            "member": "387"
         }
     ]
 }

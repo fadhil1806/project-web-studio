@@ -12,6 +12,11 @@
     <nav id="headerNav" class="my-2"></nav>
     <div id="search" style="display: none;"></div>
 
+    <div class="container">
+        <h2>Kata yang kamu cari:</h2>
+        <h2 id="textSearch" style="text-align: center; font-weight: 200;" class="my-4"></h2>
+    </div>
+
     
     <script src="assets/js/manipulationSearch.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
@@ -23,6 +28,13 @@
             
         }
         pageSearch()
+
+        const queryLocationSearch = window.location.search;
+
+        const urlParms = new URLSearchParams(queryLocationSearch)
+        const getQuery = urlParms.get('query')
+
+        document.getElementById('textSearch').textContent = getQuery
     </script>
 </body>
 </html>

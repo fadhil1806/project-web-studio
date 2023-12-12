@@ -3,9 +3,11 @@ async function getDataApi() {
     const dataApi = await response.json()
 
     getDataApiImageHero(dataApi.heroImage)
+    console.log(dataApi.course[2].title.length)
 
     dataApi.course.forEach(dataIndex => {
-        getDataApiCourse(dataIndex.image, dataIndex.title, dataIndex.description, dataIndex.kelas, dataIndex.icon)
+        getDataApiCourse(dataIndex.image, dataIndex.title, dataIndex.description, dataIndex.kelas)
+        
     })
 }
 getDataApi()
@@ -22,10 +24,11 @@ async function getDataApiImageHero(image) {
     containerHeroImage.appendChild(createImgHero)
 }
 
+
+
 getDataApiCourse = (image, title, description, kelas) => {
     
     const row_card = document.querySelector('#row_card')
-
     
     const col_content_card = document.createElement('div')
     col_content_card.classList.add('col-sm-6', 'col-md-6', 'col-lg-4', 'col-xxl-3')
@@ -44,10 +47,13 @@ getDataApiCourse = (image, title, description, kelas) => {
     card_body_first.classList.add('card-body')
 
     const content_title_card_h5 = document.createElement('h5')
-    content_title_card_h5.textContent = title
+    const subStringTitle = title.substring(0, 23) //minimal 23 huruf dimulai dari 0
+    content_title_card_h5.textContent = subStringTitle + '...'
 
     const content_title_card_p = document.createElement('p')
-    content_title_card_p.textContent = description
+    const subStringDescription = description.substring(0, 31)
+
+    content_title_card_p.textContent = subStringDescription + '...'
 
     //container second card
 
@@ -70,8 +76,10 @@ getDataApiCourse = (image, title, description, kelas) => {
     container_card_second_second.classList.add('my-2')
 
     const content_card_btn = document.createElement('a')
+    //masukan url ke button card
+    content_card_btn.href = `/class.html?query=${title}`
     content_card_btn.textContent = 'Lihat kelas'
-    content_card_btn.classList.add('btn', 'btn-outline-warning', 'd-block')
+    content_card_btn.classList.add('btn', 'btn-outline-warning', 'd-block', 'text-dark')
 
     container_card_second_second.appendChild(content_card_btn)
 
